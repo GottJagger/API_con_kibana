@@ -3,3 +3,5 @@ http.p12
 info.html
 kibana-test.crt
 settings.json
+config.json.backup
+
