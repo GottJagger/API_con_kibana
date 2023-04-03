@@ -2,4 +2,4 @@ http_ca.crt
 http.p12
 info.html
 kibana-test.crt
-
+settings.json
